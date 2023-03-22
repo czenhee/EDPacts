@@ -1,0 +1,1 @@
+SELECT * FROM valorant.players_view;
